@@ -1,0 +1,4 @@
+id,"Product Name",Slug,Sku,Description,Category,Brand,Price,"Discount Price",Stock,"Shop Name",Duration,"Expiry Date",Type,slot,Attribute
+1,"Product 1",product-1,product-1,<p>ff</p>,"Category 1","Brand 1",1000,,194,"Shop 1",,2024-08-15,Product,,"Red, XL"
+2,"Product 2",product-2,product-2,<p>ff</p>,"Category 2","Brand 1",2000,,191,"Shop 1",,2024-08-15,Product,,"Red, XL"
+3,"Test Product 110",test-product-110,4534533dd,<p>gfhfghfg</p>,"Category 1","Brand 1",1000,,50,"Shop 1",,2024-08-16,Product,,"Red, Green"

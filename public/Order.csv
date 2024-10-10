@@ -1,0 +1,2 @@
+"Invoice Number","Shop Name","Order Date","Customer Name","Customer Phone","Customer Address","Ordered Products","Total Payable Amount","Paid Amount","Order Status","Payment Status"
+Sho-0001-240819,"Shop 1","2024-08-19 11:08:00","Babar Azam",01887766611,,"Product 1(2)",2000,1800,Completed,Paid

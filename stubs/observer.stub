@@ -1,0 +1,48 @@
+<?php
+
+namespace {{ namespace }};
+
+use {{ namespacedModel }};
+
+class {{ class }}
+{
+    /**
+     * Handle the {{ model }} "created" event.
+     */
+    final public function created({{ model }} ${{ modelVariable }}): void
+    {
+        //
+    }
+
+    /**
+     * Handle the {{ model }} "updated" event.
+     */
+    final public function updated({{ model }} ${{ modelVariable }}): void
+    {
+        //
+    }
+
+    /**
+     * Handle the {{ model }} "deleted" event.
+     */
+    final public function deleted({{ model }} ${{ modelVariable }}): void
+    {
+        //
+    }
+
+    /**
+     * Handle the {{ model }} "restored" event.
+     */
+    final public function restored({{ model }} ${{ modelVariable }}): void
+    {
+        //
+    }
+
+    /**
+     * Handle the {{ model }} "force deleted" event.
+     */
+    final public function forceDeleted({{ model }} ${{ modelVariable }}): void
+    {
+        //
+    }
+}

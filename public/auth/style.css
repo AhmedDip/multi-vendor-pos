@@ -1,0 +1,63 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.ad-banner {
+    height: 100vh;
+    object-fit: cover;
+}
+
+.login-card{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    border-radius: 20px;
+}
+.auth-input-group input{
+    border-radius: 30px;
+    padding: 15px;
+}
+.auth-input-group input[type="checkbox"]{
+    padding: unset;
+}
+span.input-group-text {
+    border-radius: 50%;
+    padding: 20px;
+    color: silver;
+}
+
+input::placeholder {
+    font-weight: bolder;
+    color: #e6e6e6;
+}
+.form-control:focus {
+    box-shadow: none!important;
+    outline: none!important;
+}
+.forgot-password a{
+    text-align: right;
+    text-decoration: none;
+    color: rgb(128, 128, 128);
+}
+.login-button{
+    border-radius: 30px;
+    padding: 15px 35px !important;
+}
+.error-msg{
+    position: absolute;
+    list-style: none;
+    color: red;
+    bottom: -32px;
+    font-size: 12px;
+    left: 26px;
+}
+.language-switch{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 150px;
+    z-index: 99;
+}
