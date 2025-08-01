@@ -20,7 +20,7 @@ A web-based Point of Sale (POS) system built using Laravel, supporting multiple 
 
 ## 🛠 Tech Stack
 
-- **Backend:** Laravel 10+
+- **Backend:** Laravel 10
 - **Database:** MySQL / MariaDB
 - **Authentication:** Laravel Breeze
 - **API:** RESTful API 
@@ -31,7 +31,7 @@ A web-based Point of Sale (POS) system built using Laravel, supporting multiple 
 
 ### Prerequisites
 
-- PHP >= 8.1
+- PHP >= 8.0
 - Composer
 - Node.js & NPM
 - MySQL or MariaDB
